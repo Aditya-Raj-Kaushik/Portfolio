@@ -1,0 +1,50 @@
+.Introduction h3 {
+    margin-top: 150px;
+    margin-bottom: 0; 
+    margin-left: 40px;
+    color: #286F6C;
+    font-size: 32px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+}
+
+.Introduction h1 {
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 40px;
+    color: black;
+    font-size: 64px;
+    font-family: "Inter", sans-serif;
+    font-weight: bolder;
+}
+
+.Introduction li{
+    list-style: none;
+    display: inline-block;
+}
+
+.ab{
+    margin-top: 0;
+    font-size: 32px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700; 
+    color: #286F6C;
+    margin-right: 4px;
+}
+
+.cd{
+    margin-left: 4px;
+    margin-top: 0;
+    font-size: 32px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: #F26440;
+}
+
+.descryption{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 600px;
+    font-family: "Roboto", sans-serif;
+}

@@ -4,6 +4,7 @@
     font-size: 40px;
     font-weight: 700;
     margin-right: 750px;
+    
 }
 
 .header li {
@@ -13,15 +14,14 @@
 
 .nav-list {
     color: #286F6C;
-    margin-top: 30px;
-    margin-right: 50px;
+    margin-top: 25px;
     text-align: right;
 }
 
 .nav-list a {
     font-family: "Inter", sans-serif;
-    font-weight: 700;
-    font-size: 16px;
+    font-weight: bold;
+    font-size: 18px;
     list-style: none;
     display: inline-block;
     margin-left: 40px;
